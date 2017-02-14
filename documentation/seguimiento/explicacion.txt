@@ -1,2 +1,15 @@
-Cada semana debereis incluir un fichero pdf con las contribuciones al repositorio. 
-Teneis en esta carpeta un ejemplo de pdf (20170224).
+Cada semana debereis incluir un fichero pdf con las contribuciones al repositorio. Teneis en esta carpeta un ejemplo de pdf (20170224).
+
+Mar y Alfredo realizaran una demostracion para añadir colaboradores al proyecto y trabajar con git en grupo de una manera eficaz.
+
+Las contribuciones no tienen porque ser exclusivamente de codigo fuente. Se deben incorporar todos los elementos del proyecto al repositorio. Por ejemplo, diseños, logos, videos (url de video de youtube, vimeo,...) , etc.
+
+En el proyecto debeis crear issues (tareas) que seran asignadas a los colaboradores correspondientes de cada tematica. Cada issue debera tener al menos un label asociado. En este proyecto teneis los labels que necesitais para los issues de vuestro proyecto. Debeis vincular los commits a las issues en los comentarios.
+
+Ejemplo:
+
+Merge pull request #5201 from flaviencathala/ng2-img-loader-down1
+Fix for image-loader 3.2.0
+deepu105 committed on GitHub 5 hours ago
+
+Fijaos que este commit esta vinculado a la issue #5201.
